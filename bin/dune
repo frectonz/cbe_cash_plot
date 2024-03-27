@@ -1,0 +1,4 @@
+(executable
+ (public_name cbe_cash_plot)
+ (name main)
+ (libraries str xml-light gnuplot))
